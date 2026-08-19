@@ -1,0 +1,9 @@
+<resources>
+<style name="Theme.PureBaseball" parent="android:style/Theme.Material.NoActionBar">
+    <item name="android:fontFamily">sans</item>
+    <item name="android:windowLightStatusBar">false</item>
+    <item name="android:statusBarColor">#071B34</item>
+    <item name="android:navigationBarColor">#071B34</item>
+    <item name="android:colorAccent">#63D58A</item>
+</style>
+</resources>
